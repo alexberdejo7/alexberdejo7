@@ -51,10 +51,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   &nbsp;
- <a href='https://www.react.org/'>
-   <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
- </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
