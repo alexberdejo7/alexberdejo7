@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 Me puedes encontrar en:
 
 ![Twitter](https://img.shields.io/twitter/follow/alexberdejo7?style=for-the-badge)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alexberdejo7)](https://www.instagram.com/0gis0/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alexberdejo7)](https://www.instagram.com/alexberdejo7/)
 
