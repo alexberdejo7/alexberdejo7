@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/facuvande">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facuvande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuvande&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=facuvande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuvande&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
 <span style="font-family: verdana; color: magenta;">Alex Berdejo</span>
 
 <p align="center">
