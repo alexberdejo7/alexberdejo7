@@ -47,9 +47,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   &nbsp;
-  <a href='https://www.typescriptlang.org/'>
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
+ 
   &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
