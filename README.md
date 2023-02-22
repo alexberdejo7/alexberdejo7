@@ -55,18 +55,12 @@ Here are some ideas to get you started:
    <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
  </a>
   &nbsp;
-</p>
-
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 
-### 📸 IG [mi Instagram](https://instagram.com/alexberdejo7)
+Me puedes encontrar en:
+
+![Twitter](https://img.shields.io/twitter/follow/alexberdejo7?style=for-the-badge)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alexberdejo7)](https://www.instagram.com/0gis0/)
+
