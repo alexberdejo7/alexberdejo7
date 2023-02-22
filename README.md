@@ -15,17 +15,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://github.com/facuvande">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facuvande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuvande&layout=compact&langs_count=7&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=facuvande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuvande&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
 
-<span style="font-family: verdana; color: magenta;">Alex Berdejo</span>
+
+<span style="font-family: verdana; color: green;">Alex Berdejo</span>
+
+<p align=center>
+  <h3 align="center">ABOUT ME<hr/></h3>
+  <p>
+    Hey there ! <br /> I am a Front End Developer 
+    I've learnt HTML5, CSS and JavaScript ES6. <br />
+    Now focused learning frameworks .
+  </p>
+</p>
+
+<h3 align="center">SKILLS<hr/></h3>
+
+
+<h4>Frontend</h4>
+<p>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
+    <img src="https://img.shields.io/badge/html5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide'>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href='https://www.typescriptlang.org/'>
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  &nbsp;
+ <a href='https://www.react.org/'>
+   <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
+ </a>
+  &nbsp;
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -33,3 +67,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
+
+
+### 📸 IG [mi Instagram](https://instagram.com/alexberdejo7)
