@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <p>
     Hey there ! <br /> I am a Front End Developer 
     I've learnt HTML5, CSS and JavaScript ES6. <br />
-    Now focused learning frameworks .
+    Now I'm focused on learning frameworks .
   </p>
 </p>
 
