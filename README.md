@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 __________________________________
 
 
-<p align="center" width="300">
-   <img align="center" width="200" style='border-radius:50%' src="https://media.licdn.com/dms/image/C5603AQGQcq75a7LFzg/profile-displayphoto-shrink_800_800/0/1649173279089?e=1680134400&v=beta&t=Di8fNzKQKkFsTiogjOJ54I0-822GvSpCxhofyF2H4oI" />
    <h3 align="center">Hi ✨, I'm Alexandro Berdejo 👩🏼‍💻</h3>
 </p>
 
