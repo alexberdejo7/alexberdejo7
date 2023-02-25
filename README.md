@@ -51,13 +51,13 @@ __________________________________
 🤝🏻 Connect with Me
 
 <a href="mailto:alexandro.berdejo@gmail.com">
-    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fes%2Fimage%2Ftag%2Fe-mail&psig=AOvVaw3w4PB5N3nqcWjahdPGK_F4&ust=1677447466895000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLiJ1vTQsf0CFQAAAAAdAAAAABAE" alt="email" width="48">
+    <img align="left" src="https://www.pngmart.com/files/7/E-Mail-PNG-Clipart.png" alt="email" width="48">
 </a>
 <a href="https://twitter.com/alexberdejo7">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="48">
 </a>
 <a href="https://instagram.com/alexberdejo7">
-    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feltallerdehector.com%2F2021%2F06%2F24%2Flogo-instagram-png%2F&psig=AOvVaw2OykEw81ABJrHygxXzsHHR&ust=1677447427070000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJD60uHQsf0CFQAAAAAdAAAAABAR" width="48">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48">
 </a>
 
 <br><br>
