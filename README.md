@@ -36,7 +36,7 @@ __________________________________
 
 - 📫 How to reach me **alexandro.berdejo@gmail.com**
 
-- ⚡ Fun fact **Painted in watercolor and lover of nature 🍀**
+- ⚡ Fan of football, videogames, philosophy, gym.
 
 
 <h3 align="left">Connect with me:</h3>
