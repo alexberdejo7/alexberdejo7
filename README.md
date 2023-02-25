@@ -51,6 +51,11 @@ __________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexberdejo7&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/alexberdejo7)
+   
+   
+   
+   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
 
