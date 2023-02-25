@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 __________________________________
 
 
-   <h3 align="center">Hi ✨, I'm Alexandro Berdejo 👩🏼‍💻</h3>
+   <h3 align="center">✨, I'm Alexandro Berdejo 👩🏼‍💻</h3>
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 <p align="center">I'm <strong>a Software Developer specialized in web technologies</strong> with 1 year experience.<br /></p>
