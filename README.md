@@ -25,6 +25,15 @@ __________________________________
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 <p align="center">I'm <strong>a Software Developer specialized in web technologies</strong> with 1 year experience.<br /></p>
 <p align="center">
+   
+<!---------------------------- Typewriter animation ----------------------------->
+# [⚡Devraj Chatribin⚡](https://devrajchatribin.com/)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer)
+
+<hr /> 
+   
+   
+  
   
 <h3 align="center">Software Developer</h3>
 
