@@ -28,7 +28,6 @@ __________________________________
 <p align="center">I'm <strong>a Software Developer specialized in web technologies</strong> with 1 year experience.<br /></p>
 <p align="center">
   
-<h1 align="center">Hi 👋, I'm Alex Berdejo</h1>
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently Programming in **FrontEnd **
