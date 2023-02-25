@@ -57,7 +57,7 @@ __________________________________
     <img align="left" src="img/linkedin.png" width="48">
 </a>
 <a href="https://twitter.com/alexberdejo7">
-    <img align="left" src="img/twitter.png" width="48">
+    <img align="left" src="ghttps://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="48">
 </a>
 <a href="https://instagram.com/alexberdejo7">
     <img align="left" src="img/instagram.png" width="48">
