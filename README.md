@@ -60,8 +60,9 @@ __________________________________
 <a href="https://www.instagram.com/alexberdejo7" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/alexberdejo7" style="text-decoration:none">
-  <img height="30" src="[https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white](https://es.m.wikipedia.org/wiki/Archivo:Twitter-logo.svg)" />
+<a href="https://www.twitter.com/alexberdejo7" style="text-decoration:none">
+  <img height="30" src = "[https://img.shields.io/badge/Instagram-%23E4405F.svg](https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-black-and-white.png)?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 </a>
 </p>
 <hr />
