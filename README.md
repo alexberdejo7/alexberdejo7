@@ -48,12 +48,30 @@ __________________________________
 - ⚡ Fan of football, videogames, philosophy, gym.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+🤝🏻 Connect with Me
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexberdejo7&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/alexberdejo7)
+<p align="left">
+<a href="alexandro.berdejo8@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/alexberdejo7" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/alexberdejo7" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://twitter.com/alexberdejo7" style="text-decoration:none">
+  <img height="30" src="[https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white](https://es.m.wikipedia.org/wiki/Archivo:Twitter-logo.svg)" />
+</a>
+</p>
+<hr />
    
+
+ 
    
+* Skills *
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexberdejo7&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/alexberdejo7)
    
    
 <h3 align="left">Languages and Tools:</h3>
